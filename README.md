@@ -1,10 +1,8 @@
 
 
-   EQUIPE DE ROBÓTICA DESTEMIDOS F.T.C 2021/2022
-
-
-
-
+  
+  
+  
 
 ## 〖ᴛᴇᴄɴɪᴄᴏ ᴅᴇ ʀᴏʙᴏᴛɪᴄᴀ〗↴
 ![image](https://user-images.githubusercontent.com/75841641/134705893-e247d699-ba2c-4c55-9a6c-bc1e092c11d6.png)
