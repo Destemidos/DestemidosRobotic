@@ -1,7 +1,7 @@
 
 
   
-# DESTEMIDOS
+
 
  
 ![image](https://user-images.githubusercontent.com/75841641/134730642-c9b8ae46-615f-4533-bd2f-6df12eb8b384.png)
@@ -57,7 +57,6 @@
 
 
 
-
 ## ᴘʀᴏᴊᴇᴛᴏ sᴏᴄɪᴀʟ
 
 ![image](https://user-images.githubusercontent.com/75841641/134735137-bba60f55-8434-41c5-9f47-449d60e903a3.png)
@@ -65,13 +64,7 @@
 
 𝐈𝐚𝐢 𝐠𝐚𝐥𝐞𝐫𝐚 𝐭𝐮𝐝𝐨 𝐛𝐞𝐦??, 𝐞𝐧𝐭𝐚𝐨, 𝐧𝐨𝐬 𝐞𝐬𝐭𝐚𝐦𝐨𝐬 𝐩𝐫𝐨𝐩𝐨𝐧𝐝𝐨 𝐮𝐦𝐚 𝐚ç𝐚𝐨 𝐬𝐨𝐜𝐢𝐚𝐥 𝐜𝐨𝐦 𝐨 𝐧𝐨𝐦𝐞 𝐃𝐞𝐬𝐭𝐞𝐦𝐢𝐝𝐨𝐬 𝐞𝐦 𝐀ç𝐚𝐨, 𝐨𝐧𝐝𝐞 𝐭𝐞𝐦𝐨𝐬 𝐜𝐨𝐦𝐨 𝐨𝐛𝐣𝐞𝐭𝐢𝐯𝐨 𝐚𝐫𝐫𝐞𝐜𝐚𝐝𝐚𝐫 𝐚𝐥𝐢𝐦𝐞𝐧𝐭𝐨𝐬 𝐞/𝐨𝐮 𝐩𝐫𝐨𝐝𝐮𝐭𝐨𝐬 𝐝𝐞 𝐡𝐢𝐠𝐢𝐞𝐧𝐞/𝐥𝐢𝐦𝐩𝐞𝐳𝐚 𝐩𝐚𝐫𝐚 𝐟𝐚𝐳𝐞𝐫 𝐜𝐞𝐬𝐭𝐚𝐬 𝐛𝐚𝐬𝐢𝐜𝐚𝐬 𝐞 𝐝𝐨𝐚𝐫𝐦𝐨𝐬 𝐩𝐚𝐫𝐚 𝐜𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝𝐞 𝐜𝐚𝐫𝐞𝐧𝐭𝐞 𝐝𝐚 𝐜𝐢𝐝𝐚𝐝𝐞 𝐝𝐞 𝐂𝐚𝐦𝐩𝐢𝐧𝐚 𝐆𝐫𝐚𝐧𝐝𝐞-𝐏𝐁. 𝐎𝐧𝐝𝐞 𝐭𝐨𝐝𝐨𝐬 𝐯𝐨𝐜𝐞𝐬 𝐩𝐨𝐝𝐞𝐦 𝐭𝐫𝐚𝐳𝐞𝐫 𝐩𝐚𝐫𝐚 𝐧𝐨𝐬𝐬𝐚 𝐞𝐬𝐜𝐨𝐥𝐚 ( 𝐄𝐬𝐜𝐨𝐥𝐚 𝐒𝐞𝐬𝐢 𝐝𝐚 𝐏𝐫𝐚𝐭𝐚, 𝐥𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐝𝐚 𝐧𝐚 𝐑𝐮𝐚 𝐂𝐚𝐩𝐢𝐭𝐚𝐨 𝐉𝐨𝐚𝐨 𝐀𝐥𝐯𝐞𝐬 𝐝𝐞 𝐋𝐢𝐫𝐚, 454 ) 𝐞 𝐞𝐧𝐭𝐫𝐞𝐠𝐚𝐫 𝐩𝐚𝐫𝐚 𝐩𝐨𝐫𝐭𝐚𝐫𝐢𝐚. 
 
-## App NextWay
 
-![image](https://user-images.githubusercontent.com/90915942/138787712-59a6dc15-ce93-41c4-9320-cb6b7c868da8.png)
-
-Microempreendedores agora irão conseguir o frete do produto de forma mais barata para o cliente. 
-O vendedor irá solicitar uma "carona" a alguém que já iria fazer o percurso da entrega, levará a mercadoria para o seu destino.
-Nosso aplicativo demonstra grande potencial de crescimento. Visto que os empreendedores demonstraram interesse na solução que está em desenvolvimento.
 
 
 
